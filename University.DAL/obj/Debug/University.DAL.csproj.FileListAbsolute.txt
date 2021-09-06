@@ -1,0 +1,9 @@
+C:\Users\badik\OneDrive\Desktop\KC Overseas Education Pvt. Ltd\University.DAL\bin\Debug\University.DAL.dll
+C:\Users\badik\OneDrive\Desktop\KC Overseas Education Pvt. Ltd\University.DAL\bin\Debug\University.DAL.pdb
+C:\Users\badik\OneDrive\Desktop\KC Overseas Education Pvt. Ltd\University.DAL\bin\Debug\University.DTO.dll
+C:\Users\badik\OneDrive\Desktop\KC Overseas Education Pvt. Ltd\University.DAL\bin\Debug\University.DTO.pdb
+C:\Users\badik\OneDrive\Desktop\KC Overseas Education Pvt. Ltd\University.DAL\obj\Debug\University.DAL.csproj.AssemblyReference.cache
+C:\Users\badik\OneDrive\Desktop\KC Overseas Education Pvt. Ltd\University.DAL\obj\Debug\University.DAL.csproj.CoreCompileInputs.cache
+C:\Users\badik\OneDrive\Desktop\KC Overseas Education Pvt. Ltd\University.DAL\obj\Debug\University.DAL.csproj.CopyComplete
+C:\Users\badik\OneDrive\Desktop\KC Overseas Education Pvt. Ltd\University.DAL\obj\Debug\University.DAL.dll
+C:\Users\badik\OneDrive\Desktop\KC Overseas Education Pvt. Ltd\University.DAL\obj\Debug\University.DAL.pdb

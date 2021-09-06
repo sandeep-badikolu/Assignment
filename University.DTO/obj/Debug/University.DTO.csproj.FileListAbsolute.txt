@@ -1,0 +1,5 @@
+C:\Users\badik\OneDrive\Desktop\KC Overseas Education Pvt. Ltd\University.DTO\bin\Debug\University.DTO.dll
+C:\Users\badik\OneDrive\Desktop\KC Overseas Education Pvt. Ltd\University.DTO\bin\Debug\University.DTO.pdb
+C:\Users\badik\OneDrive\Desktop\KC Overseas Education Pvt. Ltd\University.DTO\obj\Debug\University.DTO.csproj.CoreCompileInputs.cache
+C:\Users\badik\OneDrive\Desktop\KC Overseas Education Pvt. Ltd\University.DTO\obj\Debug\University.DTO.dll
+C:\Users\badik\OneDrive\Desktop\KC Overseas Education Pvt. Ltd\University.DTO\obj\Debug\University.DTO.pdb
